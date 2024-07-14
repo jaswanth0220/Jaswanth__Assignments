@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.net training\\Dotnet\\Assignments\\InheritanceAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67A54CD8-2E21-4D2E-8AE6-210302EE3B18}|InheritanceAssignment\\InheritanceAssignment.csproj|e:\\.net training\\dotnet\\assignments\\inheritanceassignment\\inheritanceassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67A54CD8-2E21-4D2E-8AE6-210302EE3B18}|InheritanceAssignment\\InheritanceAssignment.csproj|solutionrelative:inheritanceassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.net training\\Dotnet\\Assignments\\InheritanceAssignment\\InheritanceAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "InheritanceAssignment\\Program.cs",
+              "ToolTip": "E:\\.net training\\Dotnet\\Assignments\\InheritanceAssignment\\InheritanceAssignment\\Program.cs",
+              "RelativeToolTip": "InheritanceAssignment\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHkAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T16:02:30.785Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

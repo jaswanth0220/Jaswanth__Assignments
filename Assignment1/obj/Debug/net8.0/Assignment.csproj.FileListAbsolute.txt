@@ -1,0 +1,14 @@
+E:\.net training\Dotnet\Assignment\bin\Debug\net8.0\Assignment.exe
+E:\.net training\Dotnet\Assignment\bin\Debug\net8.0\Assignment.deps.json
+E:\.net training\Dotnet\Assignment\bin\Debug\net8.0\Assignment.runtimeconfig.json
+E:\.net training\Dotnet\Assignment\bin\Debug\net8.0\Assignment.dll
+E:\.net training\Dotnet\Assignment\bin\Debug\net8.0\Assignment.pdb
+E:\.net training\Dotnet\Assignment\obj\Debug\net8.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net training\Dotnet\Assignment\obj\Debug\net8.0\Assignment.AssemblyInfoInputs.cache
+E:\.net training\Dotnet\Assignment\obj\Debug\net8.0\Assignment.AssemblyInfo.cs
+E:\.net training\Dotnet\Assignment\obj\Debug\net8.0\Assignment.csproj.CoreCompileInputs.cache
+E:\.net training\Dotnet\Assignment\obj\Debug\net8.0\Assignment.dll
+E:\.net training\Dotnet\Assignment\obj\Debug\net8.0\refint\Assignment.dll
+E:\.net training\Dotnet\Assignment\obj\Debug\net8.0\Assignment.pdb
+E:\.net training\Dotnet\Assignment\obj\Debug\net8.0\Assignment.genruntimeconfig.cache
+E:\.net training\Dotnet\Assignment\obj\Debug\net8.0\ref\Assignment.dll
