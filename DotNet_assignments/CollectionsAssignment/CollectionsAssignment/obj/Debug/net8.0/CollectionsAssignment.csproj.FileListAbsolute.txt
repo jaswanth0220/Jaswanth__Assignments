@@ -1,0 +1,14 @@
+E:\.net training\Dotnet\Assignments\CollectionsAssignment\CollectionsAssignment\bin\Debug\net8.0\CollectionsAssignment.exe
+E:\.net training\Dotnet\Assignments\CollectionsAssignment\CollectionsAssignment\bin\Debug\net8.0\CollectionsAssignment.deps.json
+E:\.net training\Dotnet\Assignments\CollectionsAssignment\CollectionsAssignment\bin\Debug\net8.0\CollectionsAssignment.runtimeconfig.json
+E:\.net training\Dotnet\Assignments\CollectionsAssignment\CollectionsAssignment\bin\Debug\net8.0\CollectionsAssignment.dll
+E:\.net training\Dotnet\Assignments\CollectionsAssignment\CollectionsAssignment\bin\Debug\net8.0\CollectionsAssignment.pdb
+E:\.net training\Dotnet\Assignments\CollectionsAssignment\CollectionsAssignment\obj\Debug\net8.0\CollectionsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net training\Dotnet\Assignments\CollectionsAssignment\CollectionsAssignment\obj\Debug\net8.0\CollectionsAssignment.AssemblyInfoInputs.cache
+E:\.net training\Dotnet\Assignments\CollectionsAssignment\CollectionsAssignment\obj\Debug\net8.0\CollectionsAssignment.AssemblyInfo.cs
+E:\.net training\Dotnet\Assignments\CollectionsAssignment\CollectionsAssignment\obj\Debug\net8.0\CollectionsAssignment.csproj.CoreCompileInputs.cache
+E:\.net training\Dotnet\Assignments\CollectionsAssignment\CollectionsAssignment\obj\Debug\net8.0\CollectionsAssignment.dll
+E:\.net training\Dotnet\Assignments\CollectionsAssignment\CollectionsAssignment\obj\Debug\net8.0\refint\CollectionsAssignment.dll
+E:\.net training\Dotnet\Assignments\CollectionsAssignment\CollectionsAssignment\obj\Debug\net8.0\CollectionsAssignment.pdb
+E:\.net training\Dotnet\Assignments\CollectionsAssignment\CollectionsAssignment\obj\Debug\net8.0\CollectionsAssignment.genruntimeconfig.cache
+E:\.net training\Dotnet\Assignments\CollectionsAssignment\CollectionsAssignment\obj\Debug\net8.0\ref\CollectionsAssignment.dll

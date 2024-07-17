@@ -1,0 +1,14 @@
+E:\.net training\Dotnet\Assignments\FilesAssignment\FilesAssignment\bin\Debug\net8.0\FilesAssignment.exe
+E:\.net training\Dotnet\Assignments\FilesAssignment\FilesAssignment\bin\Debug\net8.0\FilesAssignment.deps.json
+E:\.net training\Dotnet\Assignments\FilesAssignment\FilesAssignment\bin\Debug\net8.0\FilesAssignment.runtimeconfig.json
+E:\.net training\Dotnet\Assignments\FilesAssignment\FilesAssignment\bin\Debug\net8.0\FilesAssignment.dll
+E:\.net training\Dotnet\Assignments\FilesAssignment\FilesAssignment\bin\Debug\net8.0\FilesAssignment.pdb
+E:\.net training\Dotnet\Assignments\FilesAssignment\FilesAssignment\obj\Debug\net8.0\FilesAssignment.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net training\Dotnet\Assignments\FilesAssignment\FilesAssignment\obj\Debug\net8.0\FilesAssignment.AssemblyInfoInputs.cache
+E:\.net training\Dotnet\Assignments\FilesAssignment\FilesAssignment\obj\Debug\net8.0\FilesAssignment.AssemblyInfo.cs
+E:\.net training\Dotnet\Assignments\FilesAssignment\FilesAssignment\obj\Debug\net8.0\FilesAssignment.csproj.CoreCompileInputs.cache
+E:\.net training\Dotnet\Assignments\FilesAssignment\FilesAssignment\obj\Debug\net8.0\FilesAssignment.dll
+E:\.net training\Dotnet\Assignments\FilesAssignment\FilesAssignment\obj\Debug\net8.0\refint\FilesAssignment.dll
+E:\.net training\Dotnet\Assignments\FilesAssignment\FilesAssignment\obj\Debug\net8.0\FilesAssignment.pdb
+E:\.net training\Dotnet\Assignments\FilesAssignment\FilesAssignment\obj\Debug\net8.0\FilesAssignment.genruntimeconfig.cache
+E:\.net training\Dotnet\Assignments\FilesAssignment\FilesAssignment\obj\Debug\net8.0\ref\FilesAssignment.dll
