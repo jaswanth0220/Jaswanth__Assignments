@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\.net training\\Assignments_github\\Jaswanth__Assignments\\DotNet_assignments\\FilesAssignment\\FilesAssignment\\FilesAssignment.csproj": {}
+    "E:\\.net training\\Dotnet\\Assignments\\SchoolManagement\\SchoolManagement\\SchoolManagement.csproj": {}
   },
   "projects": {
-    "E:\\.net training\\Assignments_github\\Jaswanth__Assignments\\DotNet_assignments\\FilesAssignment\\FilesAssignment\\FilesAssignment.csproj": {
+    "E:\\.net training\\Dotnet\\Assignments\\SchoolManagement\\SchoolManagement\\SchoolManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\.net training\\Assignments_github\\Jaswanth__Assignments\\DotNet_assignments\\FilesAssignment\\FilesAssignment\\FilesAssignment.csproj",
-        "projectName": "FilesAssignment",
-        "projectPath": "E:\\.net training\\Assignments_github\\Jaswanth__Assignments\\DotNet_assignments\\FilesAssignment\\FilesAssignment\\FilesAssignment.csproj",
+        "projectUniqueName": "E:\\.net training\\Dotnet\\Assignments\\SchoolManagement\\SchoolManagement\\SchoolManagement.csproj",
+        "projectName": "SchoolManagement",
+        "projectPath": "E:\\.net training\\Dotnet\\Assignments\\SchoolManagement\\SchoolManagement\\SchoolManagement.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "E:\\.net training\\Assignments_github\\Jaswanth__Assignments\\DotNet_assignments\\FilesAssignment\\FilesAssignment\\obj\\",
+        "outputPath": "E:\\.net training\\Dotnet\\Assignments\\SchoolManagement\\SchoolManagement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
