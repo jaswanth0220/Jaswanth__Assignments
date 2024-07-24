@@ -1,0 +1,11 @@
+E:\.net training\Dotnet\FahrenheitTocelsius\FahrenheitTocelsius\bin\Debug\net8.0\FahrenheitTocelsius.deps.json
+E:\.net training\Dotnet\FahrenheitTocelsius\FahrenheitTocelsius\bin\Debug\net8.0\FahrenheitTocelsius.dll
+E:\.net training\Dotnet\FahrenheitTocelsius\FahrenheitTocelsius\bin\Debug\net8.0\FahrenheitTocelsius.pdb
+E:\.net training\Dotnet\FahrenheitTocelsius\FahrenheitTocelsius\obj\Debug\net8.0\FahrenheitTocelsius.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net training\Dotnet\FahrenheitTocelsius\FahrenheitTocelsius\obj\Debug\net8.0\FahrenheitTocelsius.AssemblyInfoInputs.cache
+E:\.net training\Dotnet\FahrenheitTocelsius\FahrenheitTocelsius\obj\Debug\net8.0\FahrenheitTocelsius.AssemblyInfo.cs
+E:\.net training\Dotnet\FahrenheitTocelsius\FahrenheitTocelsius\obj\Debug\net8.0\FahrenheitTocelsius.csproj.CoreCompileInputs.cache
+E:\.net training\Dotnet\FahrenheitTocelsius\FahrenheitTocelsius\obj\Debug\net8.0\FahrenheitTocelsius.dll
+E:\.net training\Dotnet\FahrenheitTocelsius\FahrenheitTocelsius\obj\Debug\net8.0\refint\FahrenheitTocelsius.dll
+E:\.net training\Dotnet\FahrenheitTocelsius\FahrenheitTocelsius\obj\Debug\net8.0\FahrenheitTocelsius.pdb
+E:\.net training\Dotnet\FahrenheitTocelsius\FahrenheitTocelsius\obj\Debug\net8.0\ref\FahrenheitTocelsius.dll
