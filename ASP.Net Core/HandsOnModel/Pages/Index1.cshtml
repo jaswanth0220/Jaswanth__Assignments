@@ -1,0 +1,25 @@
+﻿@page
+@model HandsOnModel.Pages.Index1Model
+@{
+}
+
+<div class="container">
+    <form  method="post">
+        <input type="number" placeholder="Enter book id " asp-for="Bookstore.Id" />
+    <input type="text"  placeholder=" Enter book name" asp-for="Bookstore.Name"/>
+    <input type="number"  placeholder="enter book price" asp-for="Bookstore.Price"/>
+    <select asp-for="Bookstore.Language">
+        <option value="English">English</option>
+        <option value="Hindi">Hindi</option>
+        <option value="Telugu">Telugu</option>
+    </select> 
+    <input type="text"  placeholder="enter author name" asp-for="Bookstore.Author"/>
+    <input type="submit" value="Add"/>
+    </form>
+
+    <h2>List of books⚡⚡🔥</h2>
+    @foreach(var item in Model.List)
+    {
+        <li> book id:@item.Id | book Name :@item.Name | book Price: @item.Price | Language: @item.Language | Author: @item.Author </li>
+    }
+</div>

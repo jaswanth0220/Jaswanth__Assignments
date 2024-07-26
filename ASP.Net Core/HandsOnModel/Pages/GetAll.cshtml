@@ -1,0 +1,20 @@
+﻿@page
+@model HandsOnModel.Pages.GetAllModel
+@{
+}
+<div class="container">
+    <h1>Add a new Product</h1>
+    <form method="post">
+        <input type="text"  placeholder="Enter product Id" asp-for="product.Id" />
+        <input type="text"  placeholder="Enter product name" asp-for="product.Name" />
+        <input type="text"  placeholder="enter price details" asp-for="product.Price" />
+        <input type=" text"  placeholder="enter the stock value" asp-for="product.Stock" />
+        <input type="submit"  value="Add" />
+    </form>
+    <h2>The list of products are:</h2>
+    @foreach(var item in Model.List)
+    {
+        <li>Product name:@item.Name | Product Id:@item.Id | Product Price:@item.Price | Product Stock:@item.Stock</li>
+        
+    }
+</div>
