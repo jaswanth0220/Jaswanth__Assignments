@@ -1,0 +1,39 @@
+﻿@model List<Movie>
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+
+<table style="border-collapse: collapse; width: 100%;">
+    <thead>
+        <tr>
+            <th style="border: 1px solid black; padding: 8px;">MovieId</th>
+            <th style="border: 1px solid black; padding: 8px;">Title</th>
+            <th style="border: 1px solid black; padding: 8px;">Actor</th>
+            <th style="border: 1px solid black; padding: 8px;">Language</th>
+            <th style="border: 1px solid black; padding: 8px;">Director</th>
+            <th style="border: 1px solid black; padding: 8px;">More Info</th>
+            
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td style="border: 1px solid black; padding: 8px;">@item.MovieId</td>
+                <td style="border: 1px solid black; padding: 8px;">@item.Title</td>
+                <td style="border: 1px solid black; padding: 8px;">@item.Actor</td>
+                <td style="border: 1px solid black; padding: 8px;">@item.Lang</td>
+                <td style="border: 1px solid black; padding: 8px;">@item.Director</td>
+                <td>
+                    <a asp-action="Details" asp-route-Name="@item.Title">MoreDetails</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+
+    <td colspan="6">
+    <a asp-action="Create">Create New</a>
+    </td>
+</table>

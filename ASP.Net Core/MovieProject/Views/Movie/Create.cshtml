@@ -1,0 +1,18 @@
+﻿@model Movie
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Add movie </h1>
+
+<div class="container">
+
+    <form action="Add" method="post">
+        <input type="type" placeholder="Enter movie id" asp-for="MovieId" />
+        <input type="type" placeholder="Enter title" asp-for="Title" />
+        <input type="type" placeholder="enter actor name" asp-for="Actor" />
+        <input type="type" placeholder="enter language" asp-for="Lang" />
+        <input type="type" placeholder="enter director name" asp-for="Director" />
+        <input type="submit" value="Add" />
+    </form>
+</div>
