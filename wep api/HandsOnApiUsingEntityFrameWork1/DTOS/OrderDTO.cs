@@ -1,0 +1,9 @@
+﻿namespace HandsOnApiUsingEntityFrameWork.DTOS
+{
+    public class OrderDTO
+    {
+        public int ProductId { get; set; }
+        public DateTime OrderDate { get; set; }
+        public int UserId { get; set; }
+    }
+}

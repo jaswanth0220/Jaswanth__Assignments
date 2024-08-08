@@ -1,5 +1,6 @@
 ﻿using HandsOnApiUsingEntityFrameWork.Entities;
 using HandsOnApiUsingEntityFrameWork.Repositories;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -11,12 +12,18 @@ namespace HandsOnApiUsingEntityFrameWork.Controllers
     {
         private readonly IProductRepository _productRepository;
 
-        public ProductController()
+        public ProductController(IProductRepository productRepository)
         {
-            _productRepository = new ProductRepository();
+            _productRepository = productRepository;
         }
 
+        //public ProductController()
+        //{
+        //    _productRepository = new ProductRepository();
+        //}
+
         [HttpGet,Route("GetProducts")]
+        [Authorize(Roles ="Admin")]
         public IActionResult GetAll()
         {
             var products = _productRepository.GetAll();
@@ -24,6 +31,7 @@ namespace HandsOnApiUsingEntityFrameWork.Controllers
         }
 
         [HttpGet, Route("GetProduct/{id}")]
+        [Authorize(Roles ="Admin,User")]
         public IActionResult Get([FromRoute] int id)
         {
             var product = _productRepository.GetProduct(id);
@@ -38,6 +46,7 @@ namespace HandsOnApiUsingEntityFrameWork.Controllers
         }
 
         [HttpPost,Route("AddProduct")]
+        [Authorize(Roles = "Admin")]
         public IActionResult Add([FromBody] Product product)
         {
             _productRepository.Add(product);
@@ -45,6 +54,7 @@ namespace HandsOnApiUsingEntityFrameWork.Controllers
         }
 
         [HttpPut,Route("EditProduct")]
+        [Authorize(Roles = "Admin")]
         public IActionResult Edit([FromBody] Product product)
         {
             _productRepository.Update(product);
@@ -52,6 +62,7 @@ namespace HandsOnApiUsingEntityFrameWork.Controllers
         }
 
         [HttpDelete, Route("DeleteProduct")]
+        [Authorize(Roles = "Admin")]
         public IActionResult Delete([FromQuery] int id)
         {
             _productRepository.Delete(id);

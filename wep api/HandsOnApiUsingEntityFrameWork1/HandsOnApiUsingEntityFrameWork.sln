@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandsOnApiUsingEntityFrameWork", "HandsOnApiUsingEntityFrameWork.csproj", "{043EAB7F-6D88-4183-B972-0785CD023AE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{043EAB7F-6D88-4183-B972-0785CD023AE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{043EAB7F-6D88-4183-B972-0785CD023AE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{043EAB7F-6D88-4183-B972-0785CD023AE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{043EAB7F-6D88-4183-B972-0785CD023AE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB921B5F-9364-40EC-835F-5AD95B520FA5}
+	EndGlobalSection
+EndGlobal

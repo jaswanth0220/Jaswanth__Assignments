@@ -3,20 +3,68 @@
   "WorkspaceRootPath": "E:\\.net training\\Dotnet\\HandsOnApiUsingEntityFrameWork\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{043EAB7F-6D88-4183-B972-0785CD023AE4}|HandsOnApiUsingEntityFrameWork.csproj|e:\\.net training\\dotnet\\handsonapiusingentityframework\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{043EAB7F-6D88-4183-B972-0785CD023AE4}|HandsOnApiUsingEntityFrameWork.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{043EAB7F-6D88-4183-B972-0785CD023AE4}|HandsOnApiUsingEntityFrameWork.csproj|e:\\.net training\\dotnet\\handsonapiusingentityframework\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{043EAB7F-6D88-4183-B972-0785CD023AE4}|HandsOnApiUsingEntityFrameWork.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043EAB7F-6D88-4183-B972-0785CD023AE4}|HandsOnApiUsingEntityFrameWork.csproj|e:\\.net training\\dotnet\\handsonapiusingentityframework\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043EAB7F-6D88-4183-B972-0785CD023AE4}|HandsOnApiUsingEntityFrameWork.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{043EAB7F-6D88-4183-B972-0785CD023AE4}|HandsOnApiUsingEntityFrameWork.csproj|e:\\.net training\\dotnet\\handsonapiusingentityframework\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{043EAB7F-6D88-4183-B972-0785CD023AE4}|HandsOnApiUsingEntityFrameWork.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{043EAB7F-6D88-4183-B972-0785CD023AE4}|HandsOnApiUsingEntityFrameWork.csproj|e:\\.net training\\dotnet\\handsonapiusingentityframework\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{043EAB7F-6D88-4183-B972-0785CD023AE4}|HandsOnApiUsingEntityFrameWork.csproj|solutionrelative:repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{043EAB7F-6D88-4183-B972-0785CD023AE4}|HandsOnApiUsingEntityFrameWork.csproj|e:\\.net training\\dotnet\\handsonapiusingentityframework\\entities\\ecommcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043EAB7F-6D88-4183-B972-0785CD023AE4}|HandsOnApiUsingEntityFrameWork.csproj|solutionrelative:entities\\ecommcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043EAB7F-6D88-4183-B972-0785CD023AE4}|HandsOnApiUsingEntityFrameWork.csproj|e:\\.net training\\dotnet\\handsonapiusingentityframework\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043EAB7F-6D88-4183-B972-0785CD023AE4}|HandsOnApiUsingEntityFrameWork.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043EAB7F-6D88-4183-B972-0785CD023AE4}|HandsOnApiUsingEntityFrameWork.csproj|e:\\.net training\\dotnet\\handsonapiusingentityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043EAB7F-6D88-4183-B972-0785CD023AE4}|HandsOnApiUsingEntityFrameWork.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043EAB7F-6D88-4183-B972-0785CD023AE4}|HandsOnApiUsingEntityFrameWork.csproj|e:\\.net training\\dotnet\\handsonapiusingentityframework\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043EAB7F-6D88-4183-B972-0785CD023AE4}|HandsOnApiUsingEntityFrameWork.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043EAB7F-6D88-4183-B972-0785CD023AE4}|HandsOnApiUsingEntityFrameWork.csproj|e:\\.net training\\dotnet\\handsonapiusingentityframework\\models\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043EAB7F-6D88-4183-B972-0785CD023AE4}|HandsOnApiUsingEntityFrameWork.csproj|solutionrelative:models\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043EAB7F-6D88-4183-B972-0785CD023AE4}|HandsOnApiUsingEntityFrameWork.csproj|e:\\.net training\\dotnet\\handsonapiusingentityframework\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043EAB7F-6D88-4183-B972-0785CD023AE4}|HandsOnApiUsingEntityFrameWork.csproj|solutionrelative:models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043EAB7F-6D88-4183-B972-0785CD023AE4}|HandsOnApiUsingEntityFrameWork.csproj|e:\\.net training\\dotnet\\handsonapiusingentityframework\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043EAB7F-6D88-4183-B972-0785CD023AE4}|HandsOnApiUsingEntityFrameWork.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043EAB7F-6D88-4183-B972-0785CD023AE4}|HandsOnApiUsingEntityFrameWork.csproj|e:\\.net training\\dotnet\\handsonapiusingentityframework\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043EAB7F-6D88-4183-B972-0785CD023AE4}|HandsOnApiUsingEntityFrameWork.csproj|solutionrelative:entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043EAB7F-6D88-4183-B972-0785CD023AE4}|HandsOnApiUsingEntityFrameWork.csproj|e:\\.net training\\dotnet\\handsonapiusingentityframework\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{043EAB7F-6D88-4183-B972-0785CD023AE4}|HandsOnApiUsingEntityFrameWork.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{043EAB7F-6D88-4183-B972-0785CD023AE4}|HandsOnApiUsingEntityFrameWork.csproj|e:\\.net training\\dotnet\\handsonapiusingentityframework\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{043EAB7F-6D88-4183-B972-0785CD023AE4}|HandsOnApiUsingEntityFrameWork.csproj|solutionrelative:repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043EAB7F-6D88-4183-B972-0785CD023AE4}|HandsOnApiUsingEntityFrameWork.csproj|e:\\.net training\\dotnet\\handsonapiusingentityframework\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043EAB7F-6D88-4183-B972-0785CD023AE4}|HandsOnApiUsingEntityFrameWork.csproj|solutionrelative:entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043EAB7F-6D88-4183-B972-0785CD023AE4}|HandsOnApiUsingEntityFrameWork.csproj|e:\\.net training\\dotnet\\handsonapiusingentityframework\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043EAB7F-6D88-4183-B972-0785CD023AE4}|HandsOnApiUsingEntityFrameWork.csproj|solutionrelative:repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043EAB7F-6D88-4183-B972-0785CD023AE4}|HandsOnApiUsingEntityFrameWork.csproj|e:\\.net training\\dotnet\\handsonapiusingentityframework\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043EAB7F-6D88-4183-B972-0785CD023AE4}|HandsOnApiUsingEntityFrameWork.csproj|solutionrelative:dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +74,215 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\.net training\\Dotnet\\HandsOnApiUsingEntityFrameWork\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "E:\\.net training\\Dotnet\\HandsOnApiUsingEntityFrameWork\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAgwDUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T05:50:36.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ProductController.cs",
               "DocumentMoniker": "E:\\.net training\\Dotnet\\HandsOnApiUsingEntityFrameWork\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
               "ToolTip": "E:\\.net training\\Dotnet\\HandsOnApiUsingEntityFrameWork\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAA3wAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T01:54:31.559Z"
+              "WhenOpened": "2024-08-07T01:54:31.559Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "OrderController.cs",
               "DocumentMoniker": "E:\\.net training\\Dotnet\\HandsOnApiUsingEntityFrameWork\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
               "ToolTip": "E:\\.net training\\Dotnet\\HandsOnApiUsingEntityFrameWork\\Controllers\\OrderController.cs",
               "RelativeToolTip": "Controllers\\OrderController.cs",
-              "ViewState": "AQIAAAoAAACAbWZmZmYBwBIAAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-07T01:53:25.56Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.net training\\Dotnet\\HandsOnApiUsingEntityFrameWork\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\.net training\\Dotnet\\HandsOnApiUsingEntityFrameWork\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T07:32:25.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "E:\\.net training\\Dotnet\\HandsOnApiUsingEntityFrameWork\\Models\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "Models\\AuthResponse.cs",
+              "ToolTip": "E:\\.net training\\Dotnet\\HandsOnApiUsingEntityFrameWork\\Models\\AuthResponse.cs",
+              "RelativeToolTip": "Models\\AuthResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T09:03:26.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\.net training\\Dotnet\\HandsOnApiUsingEntityFrameWork\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
+              "ToolTip": "E:\\.net training\\Dotnet\\HandsOnApiUsingEntityFrameWork\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T07:35:17.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "ECommContext.cs",
+              "DocumentMoniker": "E:\\.net training\\Dotnet\\HandsOnApiUsingEntityFrameWork\\Entities\\ECommContext.cs",
+              "RelativeDocumentMoniker": "Entities\\ECommContext.cs",
+              "ToolTip": "E:\\.net training\\Dotnet\\HandsOnApiUsingEntityFrameWork\\Entities\\ECommContext.cs",
+              "RelativeToolTip": "Entities\\ECommContext.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAuwCAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T07:17:11.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\.net training\\Dotnet\\HandsOnApiUsingEntityFrameWork\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\.net training\\Dotnet\\HandsOnApiUsingEntityFrameWork\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-07T07:14:27.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cs",
+              "DocumentMoniker": "E:\\.net training\\Dotnet\\HandsOnApiUsingEntityFrameWork\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "Models\\Login.cs",
+              "ToolTip": "E:\\.net training\\Dotnet\\HandsOnApiUsingEntityFrameWork\\Models\\Login.cs",
+              "RelativeToolTip": "Models\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T05:50:11.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "OrderRepository.cs",
               "DocumentMoniker": "E:\\.net training\\Dotnet\\HandsOnApiUsingEntityFrameWork\\Repositories\\OrderRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\OrderRepository.cs",
               "ToolTip": "E:\\.net training\\Dotnet\\HandsOnApiUsingEntityFrameWork\\Repositories\\OrderRepository.cs",
               "RelativeToolTip": "Repositories\\OrderRepository.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBMAAAArAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T01:44:23.79Z"
+              "WhenOpened": "2024-08-07T01:44:23.79Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\.net training\\Dotnet\\HandsOnApiUsingEntityFrameWork\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "E:\\.net training\\Dotnet\\HandsOnApiUsingEntityFrameWork\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-07T07:56:10.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\.net training\\Dotnet\\HandsOnApiUsingEntityFrameWork\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Entities\\User.cs",
+              "ToolTip": "E:\\.net training\\Dotnet\\HandsOnApiUsingEntityFrameWork\\Entities\\User.cs",
+              "RelativeToolTip": "Entities\\User.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T15:12:23.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\.net training\\Dotnet\\HandsOnApiUsingEntityFrameWork\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Entities\\Product.cs",
+              "ToolTip": "E:\\.net training\\Dotnet\\HandsOnApiUsingEntityFrameWork\\Entities\\Product.cs",
+              "RelativeToolTip": "Entities\\Product.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T15:12:43.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\.net training\\Dotnet\\HandsOnApiUsingEntityFrameWork\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Entities\\Order.cs",
+              "ToolTip": "E:\\.net training\\Dotnet\\HandsOnApiUsingEntityFrameWork\\Entities\\Order.cs",
+              "RelativeToolTip": "Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T05:15:11.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "E:\\.net training\\Dotnet\\HandsOnApiUsingEntityFrameWork\\Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\ProductRepository.cs",
               "ToolTip": "E:\\.net training\\Dotnet\\HandsOnApiUsingEntityFrameWork\\Repositories\\ProductRepository.cs",
               "RelativeToolTip": "Repositories\\ProductRepository.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBgAAAAAAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAADwvw8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T01:47:14.277Z"
+              "WhenOpened": "2024-08-07T01:47:14.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "E:\\.net training\\Dotnet\\HandsOnApiUsingEntityFrameWork\\DTOS\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "DTOS\\OrderDTO.cs",
+              "ToolTip": "E:\\.net training\\Dotnet\\HandsOnApiUsingEntityFrameWork\\DTOS\\OrderDTO.cs",
+              "RelativeToolTip": "DTOS\\OrderDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T05:55:08.062Z",
+              "EditorCaption": ""
             }
           ]
         }

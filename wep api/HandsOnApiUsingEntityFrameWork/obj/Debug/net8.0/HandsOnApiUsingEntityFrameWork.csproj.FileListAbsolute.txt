@@ -135,3 +135,4 @@ E:\.net training\Dotnet\HandsOnApiUsingEntityFrameWork\obj\Debug\net8.0\refint\H
 E:\.net training\Dotnet\HandsOnApiUsingEntityFrameWork\obj\Debug\net8.0\HandsOnApiUsingEntityFrameWork.pdb
 E:\.net training\Dotnet\HandsOnApiUsingEntityFrameWork\obj\Debug\net8.0\HandsOnApiUsingEntityFrameWork.genruntimeconfig.cache
 E:\.net training\Dotnet\HandsOnApiUsingEntityFrameWork\obj\Debug\net8.0\ref\HandsOnApiUsingEntityFrameWork.dll
+E:\.net training\Dotnet\HandsOnApiUsingEntityFrameWork\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

@@ -1,0 +1,6 @@
+@HandsOnApiUsingEntityFrameWork_HostAddress = http://localhost:5056
+
+GET {{HandsOnApiUsingEntityFrameWork_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

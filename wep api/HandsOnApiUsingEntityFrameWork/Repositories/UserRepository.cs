@@ -5,11 +5,22 @@ namespace HandsOnApiUsingEntityFrameWork.Repositories
     public class UserRepository : IUserRepository
     {
         private readonly ECommContext _context;
-
-        public UserRepository()
+        private IConfiguration _configuration;
+        public UserRepository(ECommContext context)
         {
-            _context = new ECommContext();
+            _context = context;
         }
+
+        public UserRepository(ECommContext context, IConfiguration configuration)
+        {
+            _context = context;
+            _configuration = configuration;
+        }
+
+        //public UserRepository()
+        //{
+        //    _context = new ECommContext();
+        //}
         public void Register(User user)
         {
             _context.Users.Add(user);

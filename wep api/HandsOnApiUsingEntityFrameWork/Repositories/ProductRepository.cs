@@ -6,9 +6,13 @@ namespace HandsOnApiUsingEntityFrameWork.Repositories
     {
         private readonly ECommContext _context;
 
-        public ProductRepository()
+        //public ProductRepository()
+        //{
+        //    _context = new ECommContext();
+        //}
+        public ProductRepository(ECommContext context)
         {
-            _context = new ECommContext();
+            _context = context;
         }
         public void Add(Product product)
         {
